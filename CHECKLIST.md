@@ -1,6 +1,6 @@
 # Kazuya Changes
 
-- [F-Smash 10 Frames Faster](https://discord.com/channels/227222780565913600/1085343630715273276/1085382564346331207)
+- ~~[F-Smash 10 Frames Faster](https://discord.com/channels/227222780565913600/1085343630715273276/1085382564346331207)~~
 - [Larger Neutral B Range](https://discord.com/channels/227222780565913600/1085343630715273276/1085382718302474250)
 - [Buttons Cancellable into crouch dash](https://discord.com/channels/227222780565913600/1085343630715273276/1086009823776227328)
 - [Jab plus on block, minus on hit](https://discord.com/channels/227222780565913600/1085343630715273276/1086500924240965694)
