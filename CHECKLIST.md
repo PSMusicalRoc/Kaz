@@ -17,3 +17,6 @@
 - [That would be so fucking annoying](https://discord.com/channels/227222780565913600/1085343630715273276/1097039293739966544)
 - [No Shielding after Standing Punch](https://discord.com/channels/227222780565913600/1085343630715273276/1097510035334115388)
 - ["Make wgf kill like the 9"](https://discord.com/channels/227222780565913600/1085343630715273276/1097532472830464010)
+
+
+- Add More skins :)
