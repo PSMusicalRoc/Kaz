@@ -4,7 +4,7 @@
 - [Larger Neutral B Range](https://discord.com/channels/227222780565913600/1085343630715273276/1085382718302474250)
 - [Buttons Cancellable into crouch dash](https://discord.com/channels/227222780565913600/1085343630715273276/1086009823776227328)
 - [Jab plus on block, minus on hit](https://discord.com/channels/227222780565913600/1085343630715273276/1086500924240965694)
-- [Jump Cancellable Side B](https://discord.com/channels/227222780565913600/1085343630715273276/1087840165327810660)
+- ~~[Jump Cancellable Side B](https://discord.com/channels/227222780565913600/1085343630715273276/1087840165327810660)~~
 - [Make an input into an input assist mode (Shield + B?)](https://discord.com/channels/227222780565913600/1085343630715273276/1088222052139421806)
 - [Oni Front Kick Fully intangible](https://discord.com/channels/227222780565913600/1085343630715273276/1088268852833550447)
 - [Lasers are as fast as ROB's](https://discord.com/channels/227222780565913600/1085343630715273276/1088642569082249327)
