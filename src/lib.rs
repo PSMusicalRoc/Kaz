@@ -9,9 +9,13 @@
 
 mod kaz_jc_sideb;
 mod kaz_10f_fsmash;
+mod kaz_fast_laser;
+mod cancel_to_dash;
 
 #[skyline::main(name = "kazuya_mishima_wins")]
 pub fn main() {
     kaz_jc_sideb::install();
     kaz_10f_fsmash::install();
+    kaz_fast_laser::install();
+    cancel_to_dash::install();
 }
