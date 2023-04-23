@@ -12,6 +12,7 @@ mod kaz_10f_fsmash;
 mod kaz_fast_laser;
 mod cancel_to_dash;
 mod ez_input;
+mod inf_upb;
 
 #[skyline::main(name = "kazuya_mishima_wins")]
 pub fn main() {
@@ -20,4 +21,5 @@ pub fn main() {
     kaz_fast_laser::install();
     cancel_to_dash::install();
     ez_input::install();
+    inf_upb::install();
 }
